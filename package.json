@@ -1,0 +1,44 @@
+{
+  "name": "assignment-deadline-tracker",
+  "version": "1.0.0",
+  "description": "A modern web application to help students track assignments and never miss deadlines",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "assignment",
+    "deadline",
+    "tracker",
+    "student",
+    "organizer",
+    "calendar",
+    "reminders",
+    "web-app",
+    "javascript",
+    "html5",
+    "css3"
+  ],
+  "author": "Student Developer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/assignment-deadline-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/assignment-deadline-tracker/issues"
+  },
+  "homepage": "https://github.com/yourusername/assignment-deadline-tracker#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+} 

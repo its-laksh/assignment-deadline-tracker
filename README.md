@@ -153,9 +153,6 @@ This is a personal project, but suggestions and improvements are welcome! Feel f
 - Submit pull requests
 - Share feedback on the user experience
 
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 🙏 Acknowledgments
 
